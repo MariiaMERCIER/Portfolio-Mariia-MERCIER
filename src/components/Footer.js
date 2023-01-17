@@ -1,7 +1,6 @@
 const Footer = () => {
   return (
-    <footer>
-      <p>Mariia MERCIER</p>
+    <footer className="container">
       <nav>
         <p>Mes projets</p> <p>Qui je suis?</p> <p>Contact</p>
       </nav>
