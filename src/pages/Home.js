@@ -15,7 +15,7 @@ const Home = () => {
             className="typed"
             options={{
               strings: [
-                "Je m'appelle Mariia Mercier. Je suis developpeuse Front-end.",
+                "Je suis Mariia Mercier. Je suis developpeuse Front-end.",
               ],
               speed: 150,
               waitUntilVisible: true,
