@@ -2,7 +2,7 @@ import TypeIt from "typeit-react";
 
 const Home = () => {
   return (
-    <body className="container">
+    <main className="container">
       <div className="banner">
         <div className="form">
           <div>
@@ -24,7 +24,7 @@ const Home = () => {
         </div>
       </div>
       <p></p>
-    </body>
+    </main>
   );
 };
 
