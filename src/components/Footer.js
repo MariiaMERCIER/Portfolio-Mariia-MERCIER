@@ -2,7 +2,8 @@ const Footer = () => {
   return (
     <footer className="container">
       <nav>
-        <p>Mes projets</p> <p>Qui je suis?</p> <p>Contact</p>
+        <span>MES PROJETS</span> <span>A PROPOS DE MOI</span>{" "}
+        <span>CONTACT</span>
       </nav>
     </footer>
   );

@@ -23,7 +23,22 @@ const Home = () => {
           />
         </div>
       </div>
-      <p></p>
+      <div className="projects">
+        <img src={require("../assets/images/todolist.png")} alt="todolist" />
+
+        <img src={require("../assets/images/marvel.png")} alt="marvel" />
+
+        <img src={require("../assets/images/vinted.png")} alt="vinted" />
+
+        <img src={require("../assets/images/netflix.png")} alt="netflix" />
+
+        <img src={require("../assets/images/deliveroo.png")} alt="deliveroo" />
+
+        <img
+          src={require("../assets/images/tripadvisor.png")}
+          alt="tripadvisor"
+        />
+      </div>
     </main>
   );
 };

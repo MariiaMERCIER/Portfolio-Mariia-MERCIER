@@ -1,10 +1,13 @@
 const Header = () => {
   return (
-    <header className="container">
-      <p>Mariia MERCIER</p>
-      <nav>
-        <p>Mes projets</p> <p>Qui je suis?</p> <p>Contact</p>
-      </nav>
+    <header>
+      <div>
+        <p>MM</p>
+        <nav>
+          <span>MES PROJETS</span> <span>A PROPOS DE MOI</span>
+          <span>CONTACT</span>
+        </nav>
+      </div>
     </header>
   );
 };
